@@ -13,6 +13,14 @@ git is a version control tool
 - we need to add our files to the staging
   - `git add <file>`
 
+- git commit -m "added readme describe our goal, initalized git"
+
+## Other Useful Commands
+
+Git Status
 - check the status we are in the git process
   `git status`
 
+Git Log
+- Show previous commits
+  `git log`
