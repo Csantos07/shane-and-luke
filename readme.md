@@ -7,6 +7,7 @@ Today we want to.
 git is a version control tool
 
 ## Git Steps
+- start in the root folder 
 - initialize git repo
   - `git init` - initilizes github repo
 
