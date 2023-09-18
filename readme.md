@@ -7,6 +7,7 @@ Today we want to.
 git is a version control tool
 
 ## Git Steps
+- start in the root folder 
 - initialize git repo
   - `git init` - initilizes github repo
 
@@ -14,6 +15,8 @@ git is a version control tool
   - `git add <file>`
 
 - git commit -m "added readme describe our goal, initalized git"
+
+- git push - pushes file into github repo
 
 ## Other Useful Commands
 
