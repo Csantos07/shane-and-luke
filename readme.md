@@ -16,6 +16,8 @@ git is a version control tool
 
 - git commit -m "added readme describe our goal, initalized git"
 
+- git push - pushes file into github repo
+
 ## Other Useful Commands
 
 Git Status
