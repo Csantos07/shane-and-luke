@@ -7,16 +7,18 @@ Today we want to.
 git is a version control tool
 
 ## Git Steps
-- start in the root folder 
+- start in the root folder
 - initialize git repo
-  - `git init` - initilizes github repo
+  - `git init`
 
 - we need to add our files to the staging
   - `git add <file>`
 
-- git commit -m "added readme describe our goal, initalized git"
+- We need to commit our code with a message
+  - `git commit -m "added readme describe our goal, initalized git"`
 
-- git push - pushes file into github repo
+- pushes file into github repo
+  - `git push`
 
 ## Other Useful Commands
 
