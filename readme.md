@@ -29,3 +29,12 @@ Git Status
 Git Log
 - Show previous commits
   `git log`
+
+Git Fetch
+- Allows us to make a fetch from the remote repo and get any new branches that have been created since
+cloning or last fetch
+  `git fetch -a`
+
+Git Pull
+- Allows us to pull new changes from our current branch
+  `git pull`
